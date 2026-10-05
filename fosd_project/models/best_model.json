@@ -1,0 +1,10 @@
+{
+  "best_model": "CatBoost",
+  "features": [
+    "wavelength_nm",
+    "sensing_length_mm",
+    "analyte_ri",
+    "ag_thickness_nm"
+  ],
+  "target": "fom_riu_inv"
+}
